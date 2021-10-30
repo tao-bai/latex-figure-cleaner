@@ -1,5 +1,5 @@
 # latex_figure_cleaner
-A python script to remove unused figures in latex projects.
+A python script to remove unused figures in latex projects. Also a good complementary of [arxiv_latex_cleaner](https://github.com/google-research/arxiv-latex-cleaner).
 
 ## Usage
 ```
